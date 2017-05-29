@@ -1,0 +1,20 @@
+{
+  "name": "angular-setup",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Betty Mutai <bettymutai00@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/BettyMutai/cookie-recipe",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
