@@ -1,12 +1,12 @@
 {
-  "name": "angular-setup",
+  "name": "github",
   "description": "",
   "main": "index.js",
   "authors": [
     "Betty Mutai <bettymutai00@gmail.com>"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/BettyMutai/cookie-recipe",
+  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -15,6 +15,7 @@
     "tests"
   ],
   "dependencies": {
+    "jquery": "^3.2.1",
     "bootstrap": "^3.3.7"
   }
 }
